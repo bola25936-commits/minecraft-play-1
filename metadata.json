@@ -1,0 +1,6 @@
+{
+  "name": "VoxelCraft",
+  "description": "Infinite procedural 3D voxel sandbox and survival game with block building, crafting, biomes, day-night cycle, and hostile mobs.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
